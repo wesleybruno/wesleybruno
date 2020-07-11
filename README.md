@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[LinkedIn](https://www.linkedin.com/in/wesley-oliveira-974a22b1/)
+
+
 <!--
 **wesleybruno/wesleybruno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
