@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wesley</h1>
 <h3 align="center">A mobile developer from Brazil</h3>
 
-- 🔭 I’m currently working at [Cronos Fintech]([https://contaazul.com/](https://cronosfintech.com.br/))
-
 - 🌱 I’m currently learning **Go (Golang)**
 
 - 👨‍💻 All of my open projects are available at [https://github.com/wesleybruno](https://github.com/wesleybruno)
